@@ -1,0 +1,4 @@
+com\mycompany\findpathinmaze\FindPathInMaze.class
+com\mycompany\findpathinmaze\FindPathInputReader.class
+com\mycompany\findpathinmaze\FindPathInputReaderFile.class
+com\mycompany\findpathinmaze\FindPathInputReaderStdIn.class
